@@ -1,1 +1,1 @@
-This is a test content commit to check if I can have the orginally written sentence (This one) be saved into a second branc and the edited sentence into another branch and compare them both side by side.
+This is a test content commit to check if I can have the orginally written sentence, the one I've already commited to the main branch, can be overwritten and saved into a second branch. So I can compare both side by side.
